@@ -1,0 +1,29 @@
+
+#myh{
+    text-align: center;
+    color: brown;
+}
+#count{
+    text-align: center;
+    display: block;
+    font-size: 10em;
+    color: chocolate;
+
+}
+.btn{
+    font-size: 1.5em
+    text-align: center;
+    padding: 10px 20px;color: azure;
+    background-color: rgb(245, 125, 116);
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+#bg{
+    background-color: rgb(248, 212, 196);
+}
+#di1{
+    text-align: center;
+}
+.btn:hover{
+ background-color: rgb(130, 7, 7);
+}
