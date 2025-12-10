@@ -1,0 +1,40 @@
+#nas{
+    text-align: center;
+}
+#myp{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3em;
+    text-align: center;
+}
+#myp1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3em;
+    text-align: center;
+}
+#myp2{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3em;
+    text-align: center;
+}
+#rand{
+    font-size: 1.5em;
+    text-align: center;
+    padding: 10px 20px;color: azure;
+    background-color: rgb(245, 125, 116);
+    
+}
+#bg{
+    background-color: rgb(248, 212, 196);
+}
+#mylab{
+    font-size: 2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
