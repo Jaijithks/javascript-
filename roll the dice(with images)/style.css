@@ -26,3 +26,7 @@ body{
 #roll:hover{
     background-color: rgba(226, 23, 16, 0.9);
 }
+#myp img{
+    width: 150px;
+    margin: 5px;
+}
