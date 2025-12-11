@@ -1,0 +1,28 @@
+#main{
+    font-size: 3em;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+body{
+    background-color: black;
+}
+#roll{
+    padding: 20px 150px;
+    font-size: 1.2em;
+    background-color: red;
+    cursor: pointer;
+}
+#num
+{
+    padding: 20px 1px;
+    background-color: grey;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 15px color red;
+    border-color: red;
+    text-align: center;
+    
+}
+#roll:hover{
+    background-color: rgba(226, 23, 16, 0.9);
+}
