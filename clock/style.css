@@ -1,0 +1,31 @@
+#clockbody{
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+    height: 20vh;
+    
+}
+#clockcontent{
+    backdrop-filter: blur(5px);
+
+    color: rgb(255, 255, 255);
+    font-size: 4em;
+
+    font-family: monospace;
+    font-weight: bold;
+}
+body{
+      background-image:url(clock.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+}
+#myh1{
+    font-size: 3em;
+    color: rgb(255, 255, 255);
+    backdrop-filter: blur(5px);
+
+}
