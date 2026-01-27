@@ -1,0 +1,11 @@
+#mybox{
+    background-color: lightblue;
+    width: 200px;
+    height: 200px;
+    font-size: 7.5em;
+    text-align: center;
+    border-radius: 10px;
+    border-color: blue;
+    border-width: 10px;
+    position: absolute;
+}
