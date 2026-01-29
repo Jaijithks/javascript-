@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    color: orange;
+    font-weight: bold;
+}
+
+body{
+    background-color: peachpuff;
+    text-align: center;
+    margin-top: 20px;
+}
+
+button{
+    margin-right: 20px;
+    border-width: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    box-shadow: 5px 5px 10px;
+}
+
+h2{ 
+    color: orange;
+}
+
+#player{
+    color: blue;
+    font-size: 2.5em;
+}
+
+#computer{
+    color: brown;
+    font-size: 2.5em;
+}
+
+#result{
+    color: black;
+    font-size: 5em;
+}
